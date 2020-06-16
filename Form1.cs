@@ -42,7 +42,7 @@ namespace _21_PA09_Bryan
             double AmountEntered;
             double convertedvalue;
 
-            if (rdb_USdollars.Checked == false || rdb_JapaneseYen.Checked == false)
+            if (rdb_USdollars.Checked == false || rdb_JapaneseYen.Checked == false || rdb_MalaysianRinggit.Checked == false)
             {
                 txt_error.Text = "Select at least one type of currency to convert";
             }

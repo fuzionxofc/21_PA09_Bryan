@@ -1,0 +1,10 @@
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\bin\Debug\21_PA09_Bryan.exe.config
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\bin\Debug\21_PA09_Bryan.exe
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\bin\Debug\21_PA09_Bryan.pdb
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\21_PA09_Bryan.csprojAssemblyReference.cache
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\_21_PA09_Bryan.Form1.resources
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\_21_PA09_Bryan.Properties.Resources.resources
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\21_PA09_Bryan.csproj.GenerateResource.cache
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\21_PA09_Bryan.csproj.CoreCompileInputs.cache
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\21_PA09_Bryan.exe
+C:\Users\fuzio\Desktop\21_PA09_Bryan\21_PA09_Bryan\obj\Debug\21_PA09_Bryan.pdb
